@@ -1,0 +1,1 @@
+SELECT * FROM `hopeful-bird-358304.Solution69.Contacts` LIMIT 1000
